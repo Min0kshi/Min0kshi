@@ -1,220 +1,252 @@
-<!-- ===================== HEADER ===================== -->
+# Hi 👋, I'm Minakshi
 
-<div align="center">
-
-# 👋 Hey, I'm Minakshi
-
-### `Full Stack Developer` · `Creative Designer` · `Problem Solver`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+ideas+into+digital+experiences;Full+Stack+Development+%F0%9F%92%BB;Creative+Design+%F0%9F%8E%A8;Learning%2C+Building%2C+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-<a href="https://github.com/min0kshi">
-<img src="https://img.shields.io/badge/GitHub-min0kshi-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:minakshi21ch@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=min0kshi&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
-
-</div>
+### 🚀 Full Stack Developer | MERN Stack | Creative Designer
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+## 👩‍💻 About Me
 
-## ✨ About Me
+I'm a passionate **Full Stack Developer** who enjoys building modern, responsive and user-friendly web applications while combining technology with creativity.
 
-> **I don't just write code — I turn ideas into experiences.**
-
-I'm a **Full Stack Developer** passionate about building modern web applications that are functional, intuitive, and visually engaging.
-
-I enjoy working at the intersection of **technology and creativity** — from developing complete web applications to designing interfaces and visual content.
-
-```text
-💻 Full Stack Development
-🎨 UI/UX & Graphic Design
-🚀 Real-world Projects
-🧠 Continuous Learning
-🤝 Collaboration & Open Source
-```
-
-### What I'm Focused On
-
-* 🚀 Building **real-world full-stack applications**
-* ⚛️ Developing with **React & modern JavaScript**
-* 🛠️ Working with **Node.js, Express & MongoDB**
-* 🎨 Exploring **UI/UX and Graphic Design**
-* 📱 Creating responsive and user-friendly interfaces
-* 🌱 Continuously improving my development & design skills
+* 🔭 I’m currently working on **Feel It**
+* 🌱 I’m continuously improving my **Full Stack Development & Graphic Design** skills
+* 💬 Ask me about **MERN Stack, React, JavaScript & Web Development**
+* 🎨 Interested in **UI/UX, Graphic Design & Creative Digital Experiences**
+* 🧩 Interested in building **real-world applications**
+* 🚀 Passionate about learning and exploring new technologies
+* 🤝 Open to collaborating on **creative tech projects & digital products**
+* 📫 Reach me at **[minakshi21ch@gmail.com](mailto:minakshi21ch@gmail.com)**
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+# 🌾 Current Project
 
-## 🧰 Tech Stack
+## 🚜 FarmConnect
 
-### Frontend
+Currently working on **FarmConnect**, a digital platform focused on connecting farmers, farm workers and agricultural resources through technology.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+### 🔹 Focus Areas
+
+* 👨‍🌾 Farmer & Worker Connections
+* 📍 Location-Based Opportunities
+* 🧰 Equipment Management
+* 📊 Dashboard & Data Management
+* 📝 Work & Worker Registration
+* 🗺️ Interactive Maps
+* 🔐 Authentication
+* 🗄️ Database Management
+* 🔗 REST APIs
+* 📱 Responsive Web Design
+
+### 🛠️ Technology Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+---
+
+# 🛠️ Languages & Tools
+
+## 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-### Backend & Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+## 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### Tools & Workflow
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Design
+---
 
-<p>
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
+# 📦 GitHub Overview
 
-## 🌱 Currently Exploring
+<p align="center">
 
-<div align="center">
+<img src="https://img.shields.io/github/followers/min0kshi?style=for-the-badge&logo=github&label=Followers" />
 
-|      💻 Development     |     🎨 Creative     |
-| :---------------------: | :-----------------: |
-| React & Modern Frontend |     UI/UX Design    |
-|    Node.js & Express    |    Graphic Design   |
-|         MongoDB         | Visual Storytelling |
-|        REST APIs        |  Branding & Content |
+<img src="https://img.shields.io/github/stars/min0kshi?style=for-the-badge&logo=github&label=Stars" />
 
-</div>
+<img src="https://img.shields.io/github/repos/min0kshi?style=for-the-badge&logo=github&label=Repositories" />
+
+</p>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+# 💻 Development Focus
+
+```text
+Frontend Development      ████████████████████░░
+Backend Development       ██████████████████░░░░
+REST API Development      ██████████████████░░░░
+Database Management       █████████████████░░░░░
+Responsive Design         ████████████████████░░
+UI/UX & Creativity        ███████████████████░░░
+Problem Solving           ████████████████████░░
+```
+
+---
+
+# 📚 Currently Learning
+
+* ⚛️ Advanced React
+* 🟢 Node.js & Express
+* 🍃 MongoDB & Database Design
+* 🔐 Authentication & Authorization
+* 🌐 REST API Architecture
+* 🐳 Docker & Deployment
+* 🎨 Graphic Design
+* 🖌️ UI/UX Design
+* 📱 Responsive Web Design
+* 🚀 Building Production-Ready Applications
+
+---
 
 # 🚀 Featured Projects
 
-### 🌾 FarmConnect
+## 🌾 FarmConnect
 
-**Connecting agriculture with technology.**
+**Agriculture + Technology**
 
-A digital platform designed to connect **farmers, farm workers, agricultural opportunities and resources** through an easy-to-use web experience.
+A platform designed to connect farmers, workers and agricultural resources through a modern digital experience.
 
-**Built with**
-
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 ---
 
-### 💭 Feel It
+## 💭 Feel It
 
-**Technology meets emotions.**
+**Technology + Emotions**
 
-A creative digital experience focused on **emotions, expression and meaningful user interaction**, combining modern UI with a simple and engaging experience.
+A creative digital experience focused on emotions, expression and meaningful user interaction.
 
-**Built with**
-
-`React` `JavaScript` `Modern UI`
+**Tech:** `React` `JavaScript` `Modern UI`
 
 ---
 
-### 🎨 Digital Hub
+## 🎨 Digital Hub
 
-**A space where creativity meets technology.**
+**Creativity + Technology**
 
-A digital concept focused on bringing together **digital services, creative work and technology** into one modern platform.
+A digital concept bringing together creative services, technology and digital experiences.
 
-**Focus**
-
-`Web Development` `Design` `Digital Experiences`
+**Focus:** `Web Development` `Design` `Digital Experiences`
 
 ---
 
-<!-- ===================== GITHUB ===================== -->
+# 📊 GitHub Stats
 
-# 📊 GitHub Analytics
+<p align="center">
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=min0kshi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=min0kshi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=min0kshi&layout=compact&hide_border=true" height="170"/>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=min0kshi&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
-# 🐍 My Contribution Journey
+# 🐍 Contribution Journey
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</div>
-
----
-
-<!-- ===================== VALUES ===================== -->
-
-## 💡 What I Believe
-
-<div align="center">
-
-### `Build.` · `Learn.` · `Create.` · `Improve.`
-
-**Good software solves problems.
-Great software also creates experiences.**
-
-</div>
+</p>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+# 🤝 Connect With Me
 
-# 🌐 Let's Connect
-
-<div align="center">
+<p align="center">
 
 <a href="mailto:minakshi21ch@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/min0kshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
-<br>
+---
+
+# 💬 Ask Me About
+
+```text
+MERN Stack
+React.js
+JavaScript
+Node.js
+Express.js
+MongoDB
+REST APIs
+Frontend Development
+Full Stack Development
+Web Application Development
+UI/UX & Graphic Design
+```
+
+---
+
+# ⚡ Fun Fact
+
+> 💻 I can switch from **coding mode** to **creative design mode** pretty quickly! 🎨
+
+---
 
 <div align="center">
 
-### 💬 Open to collaboration, ideas & interesting projects.
+### 🌟 Build. Learn. Create. Repeat.
 
-<br>
+**Thanks for visiting my profile!**
 
-**Thanks for visiting my profile! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
