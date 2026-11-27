@@ -1,247 +1,192 @@
 # Hi 👋, I'm Minakshi
 
-### 🚀 Full Stack Developer | MERN Stack | Creative Designer
+### 💻 Frontend Developer | Web Designer | Graphic Designer
+
+Building responsive web experiences and combining technology with creativity. 🚀
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Full Stack Developer** who enjoys building modern, responsive and user-friendly web applications while combining technology with creativity.
+I'm a creative and detail-oriented developer with a background in Computer Applications and practical experience in graphic design and social media content management.
 
-* 🔭 I’m currently working on **Feel It**
-* 🌱 I’m continuously improving my **Full Stack Development & Graphic Design** skills
-* 💬 Ask me about **MERN Stack, React, JavaScript & Web Development**
-* 🎨 Interested in **UI/UX, Graphic Design & Creative Digital Experiences**
-* 🧩 Interested in building **real-world applications**
-* 🚀 Passionate about learning and exploring new technologies
-* 🤝 Open to collaborating on **creative tech projects & digital products**
-* 📫 Reach me at **[minakshi21ch@gmail.com](mailto:minakshi21ch@gmail.com)**
-
----
-
-# 🌾 Current Project
-
-## 🚜 FarmConnect
-
-Currently working on **FarmConnect**, a digital platform focused on connecting farmers, farm workers and agricultural resources through technology.
-
-### 🔹 Focus Areas
-
-* 👨‍🌾 Farmer & Worker Connections
-* 📍 Location-Based Opportunities
-* 🧰 Equipment Management
-* 📊 Dashboard & Data Management
-* 📝 Work & Worker Registration
-* 🗺️ Interactive Maps
-* 🔐 Authentication
-* 🗄️ Database Management
-* 🔗 REST APIs
-* 📱 Responsive Web Design
-
-### 🛠️ Technology Stack
-
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+- 🎓 BCA Graduate (2026)
+- 💼 5 Months of Professional Experience at Himgiri
+- 💻 Interested in Frontend & Full Stack Development
+- ⚛️ Learning and working with React.js and JavaScript
+- 🎨 Passionate about UI/UX and Graphic Design
+- 🧩 Interested in building real-world web applications
+- 🤝 Open to collaboration and learning opportunities
+- 📫 Email: **minakshi420chattry@gmail.com**
 
 ---
 
-# 🛠️ Languages & Tools
+## 💼 Work Experience
 
-## 💻 Programming Languages
+### Designer & Content Scheduler | Himgiri
+**Duration: 5 Months**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
+- Designed social media posters and promotional banners.
+- Assisted with content planning and scheduling.
+- Created digital creatives for online promotion.
+- Worked on visual communication and brand presentation.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Khetiyari – Agriculture Platform
+
+An agriculture-focused platform concept designed to connect farmers with workers and related agricultural services.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS.
+
+### 🍽️ Restaurant Website
+
+A responsive restaurant website focused on modern layouts, typography, visual presentation and user experience.
+
+**Technologies:** React.js, HTML5, CSS3, JavaScript.
+
+### 📇 Contact Management System
+
+A contact management application exploring contact data handling and database connectivity.
+
+**Technologies:** React.js, Node.js, MongoDB.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
----
+### ⚙️ Backend Development
 
-## 🌐 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
+### 🗄️ Database
 
-## 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
----
+### 🎨 Graphic Design & UI/UX
 
-## 🔧 Tools & Technologies
+- Adobe Photoshop
+- Adobe Illustrator
+- Canva
+- Figma
+- Social Media Creatives
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
 </p>
 
----
+### 🤖 AI & Productivity
 
-## 🎨 Design & Creative Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
+- ChatGPT
+- AI-Assisted Ideation
+- Prompt Writing & Refinement
 
 ---
 
-# 📦 GitHub Overview
+## 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/min0kshi?style=for-the-badge&logo=github&label=Followers" />
-
-<img src="https://img.shields.io/github/stars/min0kshi?style=for-the-badge&logo=github&label=Stars" />
-
-<img src="https://img.shields.io/github/repos/min0kshi?style=for-the-badge&logo=github&label=Repositories" />
-
-</p>
+- ⚛️ Advanced React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & Database Management
+- 🔗 REST API Development
+- 🔐 Authentication & Authorization
+- 🎨 UI/UX Design
+- 📱 Responsive Web Design
+- 🚀 Building Real-World Applications
 
 ---
 
-# 💻 Development Focus
+## 💡 What I Can Do
 
 ```text
-Frontend Development      ████████████████████░░
-Backend Development       ██████████████████░░░░
-REST API Development      ██████████████████░░░░
-Database Management       █████████████████░░░░░
-Responsive Design         ████████████████████░░
-UI/UX & Creativity        ███████████████████░░░
-Problem Solving           ████████████████████░░
+Frontend Development
+Responsive Web Design
+React.js Development
+JavaScript Programming
+REST API Fundamentals
+MongoDB Integration
+Graphic Designing
+Social Media Content Creation
+Content Planning & Scheduling
+UI/UX Design
 ```
 
 ---
 
-# 📚 Currently Learning
-
-* ⚛️ Advanced React
-* 🟢 Node.js & Express
-* 🍃 MongoDB & Database Design
-* 🔐 Authentication & Authorization
-* 🌐 REST API Architecture
-* 🐳 Docker & Deployment
-* 🎨 Graphic Design
-* 🖌️ UI/UX Design
-* 📱 Responsive Web Design
-* 🚀 Building Production-Ready Applications
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 FarmConnect
-
-**Agriculture + Technology**
-
-A platform designed to connect farmers, workers and agricultural resources through a modern digital experience.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
----
-
-## 💭 Feel It
-
-**Technology + Emotions**
-
-A creative digital experience focused on emotions, expression and meaningful user interaction.
-
-**Tech:** `React` `JavaScript` `Modern UI`
-
----
-
-## 🎨 Digital Hub
-
-**Creativity + Technology**
-
-A digital concept bringing together creative services, technology and digital experiences.
-
-**Focus:** `Web Development` `Design` `Digital Experiences`
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
+<img src="https://img.shields.io/github/followers/min0kshi?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/min0kshi?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/repos/min0kshi?style=for-the-badge&logo=github&label=Repositories" />
+</p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=min0kshi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=min0kshi&layout=compact&hide_border=true" height="170"/>
-
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=min0kshi&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=min0kshi&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Journey
+## 🐍 My Contribution Journey
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:minakshi21ch@gmail.com">
+<a href="mailto:minakshi420chattry@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/min0kshi">
+<a href="https://github.com/Min0kshi">
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/minakshi-chhetri-8a2b85219">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Ask Me About
+## ⚡ Fun Fact
 
-```text
-MERN Stack
-React.js
-JavaScript
-Node.js
-Express.js
-MongoDB
-REST APIs
-Frontend Development
-Full Stack Development
-Web Application Development
-UI/UX & Graphic Design
-```
+💻 I love switching between coding and creative designing!
 
----
-
-# ⚡ Fun Fact
-
-> 💻 I can switch from **coding mode** to **creative design mode** pretty quickly! 🎨
+> "Creativity is intelligence having fun."
 
 ---
 
 <div align="center">
 
-### 🌟 Build. Learn. Create. Repeat.
+### 🌟 Learn. Build. Create. Grow.
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my GitHub profile!**
 
 ⭐ Feel free to explore my repositories and connect with me.
 
